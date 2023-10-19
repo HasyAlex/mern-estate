@@ -6,4 +6,7 @@ MongoDB>
 AlexHasitha
 k860VntwwZsdQjCS
 
+//to set environment variables
 npm i dotenv
+
+npm i bcryptjs
